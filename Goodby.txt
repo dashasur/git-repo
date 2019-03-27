@@ -1,1 +1,1 @@
-print('Goodbay world')23456789
+print('Goodbay world')
